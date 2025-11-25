@@ -1,4 +1,4 @@
-# Sistema_Adoçao
+
 #  Sistema de Adoção de Animais com IA – Java Puro + (Swing)
 
 Este é um sistema completo para **gerenciar adoções de animais** com um motor de **inteligência artificial simples**, desenvolvido 100% em **Java puro** com **interface gráfica (Swing)**.
